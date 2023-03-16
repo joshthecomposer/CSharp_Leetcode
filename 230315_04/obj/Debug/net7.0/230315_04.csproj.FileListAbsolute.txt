@@ -1,0 +1,15 @@
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\bin\Debug\net7.0\230315_04.exe
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\bin\Debug\net7.0\230315_04.deps.json
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\bin\Debug\net7.0\230315_04.runtimeconfig.json
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\bin\Debug\net7.0\230315_04.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\bin\Debug\net7.0\230315_04.pdb
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.csproj.AssemblyReference.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.GeneratedMSBuildEditorConfig.editorconfig
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.AssemblyInfoInputs.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.AssemblyInfo.cs
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.csproj.CoreCompileInputs.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\refint\230315_04.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.pdb
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\230315_04.genruntimeconfig.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315_04\obj\Debug\net7.0\ref\230315_04.dll

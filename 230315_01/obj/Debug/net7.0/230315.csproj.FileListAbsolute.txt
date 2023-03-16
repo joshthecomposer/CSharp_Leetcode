@@ -1,0 +1,15 @@
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\bin\Debug\net7.0\230315.exe
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\bin\Debug\net7.0\230315.deps.json
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\bin\Debug\net7.0\230315.runtimeconfig.json
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\bin\Debug\net7.0\230315.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\bin\Debug\net7.0\230315.pdb
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.csproj.AssemblyReference.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.GeneratedMSBuildEditorConfig.editorconfig
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.AssemblyInfoInputs.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.AssemblyInfo.cs
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.csproj.CoreCompileInputs.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\refint\230315.dll
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.pdb
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\230315.genruntimeconfig.cache
+G:\E Drive\Software_Dev\CodeWars\CSharp_Various_Algos\230315\obj\Debug\net7.0\ref\230315.dll
